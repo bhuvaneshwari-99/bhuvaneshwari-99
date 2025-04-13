@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Coding,AI&ML with Python**
 
-- 📫 How to reach me **1ep22ec019@eastpoint.ac.in**
+- 📫 How to reach me **lbhuvaneshwari729@gmail.com**
 
 - ⚡ Fun fact: **I have a deep desire to explore and learn, delving into new experiences, ideas, and knowledge with an open mind and boundless curiosity.**
 
