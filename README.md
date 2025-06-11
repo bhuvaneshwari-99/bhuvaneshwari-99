@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhuvaneshwari-99" alt="bhuvaneshwari-99" /></a> </p>
 
--🔭 I’m currently working **AI&ML and FSD(Python)**
+-🔭 I’m currently working **AI&ML **
 
 - 🌱 I’m currently learning about **TensorFlow,PyTorch,OpenCV,Django**
 
 - 👯 I’m looking to collaborate on **Django Projects**
-
-- 🤝 I’m looking for help with **Full Stack Development**
 
 - 💬 Ask me about **Coding,AI&ML with Python**
 
