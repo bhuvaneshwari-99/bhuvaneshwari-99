@@ -10,7 +10,7 @@
 ### 🧠 About Me
 
 🎓 I'm currently pursuing my Bachelor's in **Electronics and Communication Engineering**.  
-💡 Passionate about building intelligent systems using **Python**, **Machine Learning**, and **Data Science**.  
+💡 Passionate about building intelligent systems using **Python**, **Machine Learning**, and **AI**.  
 🧑‍💻 Exploring real-world problems through personal and academic projects.  
 
 ---
