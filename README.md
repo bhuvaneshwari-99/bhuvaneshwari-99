@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Bhuvaneshwari L</h1>
-<h3 align="center">🚀 ECE Undergrad | Aspiring AI/ML Engineer | Passionate about Tech & Real-World Innovation</h3>
+<h3 align="center"> ECE Undergrad | Aspiring AI/ML Engineer | Passionate about Tech & Real-World Innovation</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bhuvaneshwari-99&label=Profile%20views&color=brightgreen&style=flat" alt="profile views" />
@@ -7,7 +7,7 @@
 
 ---
 
-### 🧠 About Me
+###  About Me
 
 🎓 I'm currently pursuing my Bachelor's in **Electronics and Communication Engineering**.  
 💡 Passionate about building intelligent systems using **Python**, **Machine Learning**, and **AI**.  
@@ -15,14 +15,14 @@
 
 ---
 
-### 🔨 Currently Working On
+###  Currently Working On
 - Smart public transport applications using GUI & automation  
 - AI/ML-driven mini projects and problem-solving  
 - Enhancing coding skills via platforms like Leetcode & Hackerrank  
 
 ---
 
-### 📬 Connect with Me
+###  Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/bhuvaneshwaril/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
@@ -34,7 +34,7 @@
 
 ---
 
-### 🛠️ Languages & Tools
+###  Languages & Tools
 
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40" title="Arduino"/>
