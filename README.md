@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Bhuvaneshwari L</h1>
-<h3 align="center"> ECE Undergrad | Aspiring AI/ML Engineer | Passionate about Tech & Real-World Innovation</h3>
+<h3 align="center"> ECE Undergrad | Aspiring Data Analyst / Business Analyst | Passionate about Tech & Real-World Innovation</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bhuvaneshwari-99&label=Profile%20views&color=brightgreen&style=flat" alt="profile views" />
@@ -10,7 +10,7 @@
 ###  About Me
 
 🎓 I'm currently pursuing my Bachelor's in **Electronics and Communication Engineering**.  
-💡 Passionate about building intelligent systems using **Python**, **Machine Learning**, and **AI**.  
+💡 Passionate about building intelligent systems using **Python**, **SQL**,**EXCEL**,**POWER BI**.  
 🧑‍💻 Exploring real-world problems through personal and academic projects.  
 
 ---
