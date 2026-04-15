@@ -93,7 +93,9 @@ email      : lbhuvaneshwari729@gmail.com
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhuvaneshwaril&theme=flat&column=6&margin-w=8&margin-h=8&no-bg=true" />
+   <img src="./AWS.png" width="250"/>
+  <img src="./Azure.png" width="250"/>
+  
 </div>
 
 ---
