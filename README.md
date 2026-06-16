@@ -27,6 +27,8 @@ education  : B.E. Electronics & Communication Engineering (ECE)
 status     : Fresher — ready to make an impact
 email      : lbhuvaneshwari729@gmail.com
 ```
+<a href="https://rainbow-sundae-a94988.netlify.app/" target="_blank" rel="noopener noreferrer">Visit My Portfolio</a>
+
 
 - 🔭 **Currently building** — Hands-on projects in Data Analytics & Frontend Development
 - 🌱 **Learning** — Python for Data Analysis · Advanced SQL · Power BI & Data Visualization
