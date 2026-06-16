@@ -43,6 +43,7 @@ email      : lbhuvaneshwari729@gmail.com
 <p>
   <img src="https://img.shields.io/badge/Python-c0392b?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-c0392b?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-c0392b?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-e05c2a?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-e05c2a?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/MATLAB-d35400?style=for-the-badge&logo=mathworks&logoColor=white"/>
@@ -71,32 +72,6 @@ email      : lbhuvaneshwari729@gmail.com
   <img src="https://img.shields.io/badge/Git-c0392b?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-e05c2a?style=for-the-badge&logo=arduino&logoColor=white"/>
 </p>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bhuvaneshwaril&show_icons=true&title_color=c0392b&icon_color=e05c2a&border_color=fcd4c4&bg_color=fff7f4&text_color=5a2a1a&count_private=true" />
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvaneshwaril&layout=compact&title_color=c0392b&border_color=fcd4c4&bg_color=fff7f4&text_color=5a2a1a" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhuvaneshwaril&ring=c0392b&fire=e05c2a&currStreakLabel=c0392b&sideLabels=d35400&dates=888888&border=fcd4c4&background=fff7f4" />
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-   <img src="./AWS.png" width="250"/>
-  <img src="./Azure.png" width="250"/>
-  
-</div>
 
 ---
 
