@@ -32,7 +32,7 @@
 | **Visualization / BI** | Power BI, Excel, Figma |
 | **Databases** | MySQL, PostgreSQL, Oracle |
 | **Machine Learning** | TensorFlow, Scikit-Learn |
-| **Cloud & Tools** | AWS, Git, Arduino |
+| **Cloud & Tools** | AWS, Git, Google Cloud |
 | **Frontend** | HTML5, CSS3 |
 |**Canva**|Designing|
 
