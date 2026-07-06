@@ -60,7 +60,7 @@
 
 ## 🔗 Let's Connect
 
-- 🌐 **Portfolio:** [Visit My Portfolio](https://claude.ai/public/artifacts/72da4d54-0dd1-4508-ba33-d457e4d24d10)
+- 🌐 **Portfolio:** [Visit My Portfolio](https://inquisitive-axolotl-3e7ad9.netlify.app/)
 - 💼 **LinkedIn:** [linkedin.com/in/bhuvaneshwaril](https://linkedin.com/in/bhuvaneshwaril)
 - 📧 **Email:** [lbhuvaneshwari729@gmail.com](mailto:lbhuvaneshwari729@gmail.com)
 - 💻 **Kaggle:** [bhuvaneshwaril001](https://www.kaggle.com/bhuvaneshwaril001)
