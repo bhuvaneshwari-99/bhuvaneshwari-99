@@ -40,7 +40,7 @@
 
 ## 📁 Featured Projects
 
-### 📊 SQL & BI Analytics
+### 📊 End to End Data Analytics 
 
 | Project | Description | Tools |
 |---|---|---|
@@ -52,7 +52,7 @@
 
 | Project | Description | Tools |
 |---|---|---|
-| [Bike Sale Dashboard — Customer Purchase Analysis](#) | Interactive Excel dashboard analyzing 1,026 customer records to identify who buys bikes and why, using PivotTables, PivotCharts, and slicers filterable by marital status, region, and education | Excel (PivotTables, PivotCharts, Slicers) |
+| [Bike Sale Dashboard — Customer Purchase Analysis](https://github.com/bhuvaneshwari-99/bike-sale-dashboard) | Interactive Excel dashboard analyzing 1,026 customer records to identify who buys bikes and why, using PivotTables, PivotCharts, and slicers filterable by marital status, region, and education | Excel (PivotTables, PivotCharts, Slicers) |
 | [Retail Sales Analysis (SQL Project)](https://github.com/bhuvaneshwari-99/SQL-RETAIL_SALES-PROJECT1) | Cleaned and analyzed retail transaction data using SQL — covering sales by category, top customers, peak sales months, and shift-wise order trends | SQL (PostgreSQL), pgAdmin, Excel |
 
 
