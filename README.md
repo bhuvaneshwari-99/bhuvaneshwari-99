@@ -26,15 +26,15 @@
 
 | Area | Tools / Technologies |
 |---|---|
-|**Artificial Intellegence**|
-| **Programming** | Python, Ruby |
+|**Artificial Intellegence**|AI tools|
+| **Programming** | Python, R |
 | **Data Analysis** | Pandas, NumPy, Matplotlib, SciPy |
 | **Visualization / BI** | Power BI, Excel, Figma |
 | **Databases** | MySQL, PostgreSQL, Oracle |
 | **Machine Learning** | TensorFlow, Scikit-Learn |
 | **Cloud & Tools** | AWS, Git, Arduino |
 | **Frontend** | HTML5, CSS3 |
-|**Canva**|
+|**Canva**|Designing|
 
 ---
 
