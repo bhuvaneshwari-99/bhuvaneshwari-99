@@ -45,7 +45,7 @@
 | Project | Description | Tools |
 |---|---|---|
 | [Quick Commerce Profitability Optimizer](https://github.com/bhuvaneshwari-99/Quick-Commerce-Profitability-Optimizer) | *Built an end-to-end profitability pipeline (PostgreSQL → Excel → Power BI) on 1M+ quick-commerce orders, identifying a ₹4.4M net loss with 40% discount penetration and 3 cities driving 41% of total losses.* | SQL, Python, Power BI |
-| [Customer Behavior Analysis](https://github.com/bhuvaneshwari-99/Customer_Behaiour_Analysis) | *Built a Power BI Customer Behavior Dashboard analyzing 648 customers, uncovering a 74% non-subscriber base and top-performing product categories to drive retention and marketing strategy.* | SQL, Python, Excel |
+| [Customer Behavior Analysis](https://github.com/bhuvaneshwari-99/Customer_Behaiour_Analysis) | *Built a Power BI Customer Behavior Dashboard analyzing 648 customers, uncovering a 74% non-subscriber base and top-performing product categories to drive retention and marketing strategy.* | SQL, Python, Excel ,Power BI|
 
 
 ### 📈 Power BI & Excel Dashboards
