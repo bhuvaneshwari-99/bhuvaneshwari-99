@@ -13,7 +13,7 @@
 ## 👩‍💻 About Me
 
 - 🎓 B.E. Electronics & Communication Engineering (ECE) — Fresher, ready to make an impact
-- 🔭 Currently building hands-on projects in Data Analytics & Frontend Development
+- 🔭 Currently building hands-on projects in Data Analytics & Cloud
 - 🌱 Learning Python for Data Analysis, Advanced SQL, and Power BI / Data Visualization
 - 👯 Open to collaborate on Data Analytics projects & Business Analysis case studies
 - 🤝 Looking for advanced project ideas and industry-level best practices in DA & BA
