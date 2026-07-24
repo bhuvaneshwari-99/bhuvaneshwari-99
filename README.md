@@ -44,8 +44,9 @@
 
 | Project | Description | Tools |
 |---|---|---|
-| [Quick Commerce Profitability Optimizer](https://github.com/bhuvaneshwari-99/Quick-Commerce-Profitability-Optimizer) | *Built an end-to-end profitability pipeline (PostgreSQL → Excel → Power BI) on 1M+ quick-commerce orders, identifying a ₹4.4M net loss with 40% discount penetration and 3 cities driving 41% of total losses.* | SQL, Python, Power BI |
-| [Customer Behavior Analysis](https://github.com/bhuvaneshwari-99/Customer_Behaiour_Analysis) | *Built a Power BI Customer Behavior Dashboard analyzing 648 customers, uncovering a 74% non-subscriber base and top-performing product categories to drive retention and marketing strategy.* | SQL, Python, Excel ,Power BI|
+| [Quick Commerce Profitability Optimizer](https://github.com/bhuvaneshwari-99/Quick-Commerce-Profitability-Optimizer) | Identified a ₹4.4M net loss driven by 40% discount penetration and pinpointed 3 cities responsible for 41% of total losses — enabling the business to cut discounting in low-margin cities and reallocate spend to profitable ones. Analysis pipeline: PostgreSQL → Excel → Power BI on 1M+ quick-commerce orders. | SQL, Python, Power BI |
+| [Customer Behavior Analysis](https://github.com/bhuvaneshwari-99/Customer_Behaiour_Analysis) | Uncovered a 74% non-subscriber base and identified top-performing product categories, pointing to a clear opportunity to boost subscription conversion and focus marketing spend on the highest-performing categories. Based on a Power BI dashboard analyzing 648 customers. | SQL, Python, Excel, Power BI |
+| [AI-Powered Demand Forecasting for Retail](https://github.com/bhuvaneshwari-99/YOUR-REPO-NAME) | Recommended prioritizing forecast accuracy for Electronics (43% of revenue), building holidays into inventory planning (72% of feature importance), treating promotions as a measured +43% demand lever, baking in a standing +18% weekend adjustment, and using one shared model across stores (only 22% performance range) instead of five. Achieved 6.1% forecast error, 2.3x more accurate than a naive baseline, using SQL + Python (SARIMA vs. XGBoost). | SQL, Python, SARIMA, XGBoost |
 
 
 ### 📈 Power BI & Excel Dashboards
