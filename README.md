@@ -27,7 +27,7 @@
 | Area | Tools / Technologies |
 |---|---|
 |**Artificial Intellegence**|AI tools|
-| **Programming** | Python, R |
+| **Programming** | Python, ,C ,R |
 | **Data Analysis** | Pandas, NumPy, Matplotlib, SciPy |
 | **Visualization / BI** | Power BI, Excel, Figma |
 | **Databases** | MySQL, PostgreSQL, Oracle |
