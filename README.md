@@ -2,7 +2,7 @@
 
 # Hi, I'm Bhuvaneshwari L 👋
 
-**Aspiring Data Analyst | SQL · Power BI · Excel · Python · Cloud**
+**Aspiring Data Analyst | SQL · Power BI · Excel · Python · AWS**
 
 📊 Turning raw data into real, actionable decisions — dashboards, insights, and reporting.
 
